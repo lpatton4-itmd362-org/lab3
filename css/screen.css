@@ -217,12 +217,31 @@ h1 {
 	padding: 20px 10px;
 	margin: 50px auto;
 	width: 70%;
-	background-color: #e9ecef;
+	background-color: #f8f9fa;
+	border-radius: 20px;
 }
 
 p {
 	font-family: 'Raleway', sans-serif;
-	background: #adb5bd;
+	background-color: #adb5bd;
+	margin: 0 auto;
+	padding: 15px 10px;
+	width: 50%;
+	border-radius: 20px;
+}
+
+input {
+	font-family: 'Raleway', sans-serif;
+	background-color: #e9ecef;
+	margin: 40px auto;
+	padding: 15px 10px;
+	width: 50%;
+	border-radius: 20px;
+}
+
+label {
+	font-family: 'Raleway', sans-serif;
+	background-color: #adb5bd;
 	margin: 0 auto;
 	padding: 15px 10px;
 	width: 50%;
@@ -230,7 +249,7 @@ p {
 }
 
 #submit {
-	font-family: 'Staatliches', cursive;
+	
 }
 
 /* ===== STATE STYLES ======= */
