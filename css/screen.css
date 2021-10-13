@@ -203,6 +203,34 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+html {
+	background-color: #6c757d;
+}
 
+#content {
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Staatliches', cursive;
+	font-size: 2em;
+	padding: 20px 10px;
+	margin: 50px auto;
+	width: 70%;
+	background-color: #e9ecef;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	background: #adb5bd;
+	margin: 0 auto;
+	padding: 15px 10px;
+	width: 50%;
+	border-radius: 20px;
+}
+
+#submit {
+	font-family: 'Staatliches', cursive;
+}
 
 /* ===== STATE STYLES ======= */
