@@ -214,6 +214,7 @@ html {
 h1 {
 	font-family: 'Staatliches', cursive;
 	font-size: 2em;
+	line-height: 1.2em;
 	padding: 20px 10px;
 	margin: 50px auto;
 	width: 70%;
@@ -230,7 +231,7 @@ p {
 	border-radius: 20px;
 }
 
-input {
+#email{
 	font-family: 'Raleway', sans-serif;
 	background-color: #e9ecef;
 	margin: 40px auto;
@@ -248,8 +249,15 @@ label {
 	border-radius: 20px;
 }
 
-#submit {
-	
+#submit{
+	font-family: 'Staatliches', cursive;
+	font-size: 1.5em;
+	color: #f8f9fa;
+	background-color: #212529;
+	margin: 40px auto;
+	padding: 20px 10px;
+	width: 30%;
+	border-radius: 20px;
 }
 
 /* ===== STATE STYLES ======= */
